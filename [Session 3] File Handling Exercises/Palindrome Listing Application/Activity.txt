@@ -1,0 +1,1 @@
+There is a file containing a list of words. Two files need to be created from it: one containing palindromes, and one containing non-palindromes. Also, a count of how many palindromes there are should be displayed.

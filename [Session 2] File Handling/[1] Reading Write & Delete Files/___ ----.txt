@@ -1,0 +1,7 @@
+https://betterprogramming.pub/the-top-10-file-handling-techniques-in-python-cf2330a16e7
+
+
+https://www.freecodecamp.org/news/python-write-to-file-open-read-append-and-other-file-handling-functions-explained/
+https://www.w3schools.com/python/python_file_handling.asp
+https://www.programiz.com/python-programming/file-operation
+https://www.guru99.com/reading-and-writing-files-in-python.html

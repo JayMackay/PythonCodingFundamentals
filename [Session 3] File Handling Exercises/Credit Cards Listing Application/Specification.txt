@@ -1,0 +1,9 @@
+There is a file of credit cards.
+
+Display the records in the following format:
+
+Card Number: 1234 5678 1234 5678
+Account holder: Beale Darth
+Expiry date: 12/20  Is valid: no
+
+Note: Expiry month should be two digits.

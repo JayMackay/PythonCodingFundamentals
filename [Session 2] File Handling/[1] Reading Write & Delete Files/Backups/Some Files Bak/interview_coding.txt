@@ -1,0 +1,4 @@
+The following are common interview coding challenges:
+FizzBuzz
+Check if a string is a palindrome
+itoa - Convert an integer into a string (a variation would be also to include another base such as hex, octal or binary)

@@ -1,0 +1,11 @@
+welcome and tools
+coding fundamentals
+object oriented programming
+test-driven development
+pandas, numpy and sql
+html and css
+javascript and responsive web design
+full-stack apss
+cyber 101
+pcep preparation
+bcs agile preparation
